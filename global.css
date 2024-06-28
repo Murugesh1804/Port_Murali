@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inria-serif: "Inria Serif";
+    --font-inria-sans: "Inria Sans";
+    --font-poppins: Poppins;
+  
+    /* font sizes */
+    --font-size-11xl: 30px;
+    --font-size-21xl: 40px;
+    --font-size-6xl: 25px;
+    --font-size-xl: 20px;
+    --font-size-base: 16px;
+    --font-size-5xl: 24px;
+    --font-size-13xl: 32px;
+    --font-size-lg: 18px;
+    --font-size-mini: 15px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-slategray-100: #547980;
+    --color-slategray-200: rgba(84, 121, 128, 0.49);
+    --color-black: #000;
+  
+    /* Gaps */
+    --gap-xl: 20px;
+    --gap-8xs: 5px;
+    --gap-5xl: 24px;
+    --gap-mid: 17px;
+    --gap-base: 16px;
+    --gap-10xs: 3px;
+    --gap-6xl: 25px;
+    --gap-16xl: 35px;
+    --gap-45xl: 64px;
+    --gap-13xl: 32px;
+    --gap-6xs: 7px;
+  
+    /* Paddings */
+    --padding-xl: 20px;
+    --padding-40xl: 59px;
+    --padding-smi: 13px;
+    --padding-6xs: 7px;
+    --padding-10xs: 3px;
+    --padding-xs: 12px;
+    --padding-12xs: 1px;
+    --padding-3xs: 10px;
+    --padding-4xs: 9px;
+    --padding-sm: 14px;
+    --padding-6xl: 25px;
+    --padding-7xs: 6px;
+    --padding-lgi: 19px;
+    --padding-25xl: 44px;
+    --padding-9xs: 4px;
+    --padding-4xl: 23px;
+    --padding-11xs: 2px;
+  
+    /* Border radiuses */
+    --br-xl: 20px;
+    --br-3xs: 10px;
+    --br-11xl: 30px;
+  }
